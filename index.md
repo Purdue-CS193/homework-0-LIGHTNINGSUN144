@@ -2,7 +2,7 @@
 
 What I love about CS193
 - NO EXAMS!!!!
-- TAs only makes a lot more chill
+- TAs only makes it a lot more chill
 - Easy A
 
 ## Welcome to GitHub Pages
